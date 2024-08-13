@@ -10,7 +10,10 @@ The first part of the code is for general ideas and the second part of the code 
 
 ##Example:
 as a general problem:
-Problem: I have to buy a house
-Idea: Get a loan from bank
-Is it good idea?
-## Results
+
+Problem: I have to buy a house.
+
+Idea: Get a loan from bank.
+
+Is it good idea? Jus run the code to see the weaknesses and LLM advices
+
